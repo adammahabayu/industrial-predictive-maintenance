@@ -129,8 +129,6 @@ git clone https://github.com/adammahabayu/industrial-predictive-maintenance.git
 cd industrial-predictive-maintenance
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username and update the repository URL after publishing the project.
-
 ### 2. Create a virtual environment
 
 Windows PowerShell:
